@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "kicad-libraries/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "kicad-libraries/footprints/Espressif.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "HiroseElectricCo")(type "KiCad")(uri "Hirose_Electric_Co/HiroseElectricCo.pretty")(options "")(descr ""))
+  (lib (name "PinHeader")(type "KiCad")(uri "Connector_PinHeader_2.54mm/PinHeader.pretty")(options "")(descr ""))
+  (lib (name "Connector_PinHeader_2.54mm")(type "KiCad")(uri "Connector_PinHeader_2.54mm/Connector_PinHeader_2.54mm.pretty")(options "")(descr ""))
+  (lib (name "SD")(type "KiCad")(uri "SD/SD.pretty")(options "")(descr ""))
+)

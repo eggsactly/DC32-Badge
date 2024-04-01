@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "display")(type "KiCad")(uri "kleeb/display.kicad_sym")(options "")(descr ""))
+  (lib (name "HiroseElectricCo")(type "KiCad")(uri "Hirose_Electric_Co/HiroseElectricCo.kicad_sym")(options "")(descr ""))
+  (lib (name "J_SD_Card-micro_socket_A")(type "KiCad")(uri "SD/J_SD_Card-micro_socket_A.kicad_sym")(options "")(descr ""))
+  (lib (name "Transistors")(type "KiCad")(uri "Transistors/Transistors.kicad_sym")(options "")(descr ""))
+  (lib (name "Keystone")(type "KiCad")(uri "Keystone/Keystone.kicad_sym")(options "")(descr ""))
+)

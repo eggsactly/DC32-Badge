@@ -1,0 +1,6 @@
+Questions: 
+- Can the ESP32-S2-WROOM-1 "EN" in be used as a Chip Pullup?
+- Can the ESP32-S2-WROOM-1 "GPIO2" be used as a SPI Data Out pin?
+- Can the ESP32-S2-WROOM-1 "GPIO3" be used as a SPI Chip Select pin? 
+- Can the ESP32-S2-WROOM-1 "GPIO6" be used as a SPI Clock pin? 
+- Can the ESP32-S2-WROOM-1 "GPIO7" be used as a SPI Data In pin? 

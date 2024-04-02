@@ -8,12 +8,6 @@
 [submodule "Hirose_Electric_Co"]
 	path = Hirose_Electric_Co
 	url = ../bare/Hirose_Electric_Co.git/
-[submodule "SD"]
-	path = SD
-	url = ../bare/SD.git/
-[submodule "Connector_PinHeader_2.54mm"]
-	path = Connector_PinHeader_2.54mm
-	url = ../bare/Connector_PinHeader_2.54mm.git/
 [submodule "Transistors"]
 	path = Transistors
 	url = ../bare/Transistors.git/

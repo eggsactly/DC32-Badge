@@ -329,9 +329,7 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [
-      "PinHeader"
-    ],
+    "pinned_footprint_libs": [],
     "pinned_symbol_libs": []
   },
   "meta": {

@@ -1,16 +1,16 @@
 [submodule "kicad-libraries"]
 	path = kicad-libraries
-	url = ../bare/kicad-libraries.git/
+	url = git@github.com:crides/kleeb.git
 	branch = 1.0.1
 [submodule "kleeb"]
 	path = kleeb
-	url = ../bare/kleeb.git/
+	url = git@github.com:crides/kleeb.git
 [submodule "Hirose_Electric_Co"]
 	path = Hirose_Electric_Co
-	url = ../bare/Hirose_Electric_Co.git/
+	url = git@github.com:eggsactly/Hirose_Electric_Co.git
 [submodule "Transistors"]
 	path = Transistors
-	url = ../bare/Transistors.git/
+	url = git@github.com:eggsactly/kicad6_transistors.git
 [submodule "Keystone"]
 	path = Keystone
-	url = ../bare/Keystone.git/
+	url = git@github.com:eggsactly/kicad6_Keystone.git
